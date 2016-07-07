@@ -1,0 +1,15 @@
+{
+  "name": "webp",
+  "version": "1.0.0",
+  "description": "calculate how much you will benefit on webp",
+  "main": "t.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.0.5"
+  },
+  "devDependencies": {}
+}
