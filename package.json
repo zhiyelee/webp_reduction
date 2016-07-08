@@ -4,12 +4,17 @@
   "description": "calculate how much you will benefit on webp",
   "main": "t.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "DEBUG=webp nodemon"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.0.5"
+    "express": "^4.14.0",
+    "glob": "^7.0.5",
+    "pug": "^2.0.0-beta3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "debug": "^2.2.0",
+    "nodemon": "^1.9.2"
+  }
 }
