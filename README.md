@@ -19,4 +19,4 @@ npm install
 npm start
 ```
 
-Visit `http://localhost:3005`
+Visit `http://localhost:3005`. Open devtools to inspect the image type OR check the console of the server.
